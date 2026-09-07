@@ -1,4 +1,4 @@
-package com.flm.appointment.dto.response;
+package com.flm.appointment.dto;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
