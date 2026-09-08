@@ -1,6 +1,6 @@
 package com.flm.appointment.builder;
 
-import com.flm.appointment.dto.request.AppointmentRequestDTO;
+import com.flm.appointment.dto.AppointmentRequestDTO;
 import com.flm.appointment.enums.AppointmentStatus;
 import com.flm.appointment.model.Appointment;
 
