@@ -1,4 +1,4 @@
-package com.flm.appointment.exceptions;
+package com.flm.appointment.exception;
 
 public class AppointmentNotFoundException extends RuntimeException {
 
